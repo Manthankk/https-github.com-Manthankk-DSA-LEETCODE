@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0135-candy) |
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
