@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Design
 |  |
 | ------- |
