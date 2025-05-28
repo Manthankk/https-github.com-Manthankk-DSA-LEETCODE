@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
