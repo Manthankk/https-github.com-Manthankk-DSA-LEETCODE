@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
