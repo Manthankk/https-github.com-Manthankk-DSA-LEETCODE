@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0135-candy) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0135-candy) |
 ## Prefix Sum
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
