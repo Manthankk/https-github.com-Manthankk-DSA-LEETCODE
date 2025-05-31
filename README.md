@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1019-squares-of-a-sorted-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
