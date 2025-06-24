@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1019-squares-of-a-sorted-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
