@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1019-squares-of-a-sorted-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1769-get-maximum-in-generated-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1769-get-maximum-in-generated-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/Manthankk/https-github.com-Manthankk-DSA-LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
