@@ -4,7 +4,7 @@
 
 <p>Return <em>the maximum amount of water a container can store</em>.</p>
 
-<p><strong>Notice</strong> that you may not slant the container.</p>
+<p><strong>Notice</strong> that you may not slant  container.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
